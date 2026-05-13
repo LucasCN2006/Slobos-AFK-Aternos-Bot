@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "MTE009-1zyR.aternos.me",
-    "port": 57648,
+    "ip": "MTE009.aternos.me:33129",
+    "port": 33129,
     "version": "",
     "try-creative": false
   },
